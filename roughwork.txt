@@ -1,13 +1,20 @@
 [pl]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
+<<<<<<< HEAD
 Szymon
 Krystian
 (C)Chi
+=======
+Szymon Staneczek
+>>>>>>> 16fe66ad125290cc1b0c7850c3dddf12f34e5b3a
 
-Elevator pitch 
-Describe your game in 30 seconds or less
+[SS ]Elevator pitch 
+The game is based in space! You play as an assassin trying to take down the evil space templars.
+The player has hidden blades that can shoot out laser at their enemies!
+There are also fast space ships that he assassin can use to fly around, looking for the templars.
 ...
+<<<<<<< HEAD
 World Background
 main differences in your game world
 (C)Conspiracy and stories that happened on colonized planets
@@ -16,6 +23,18 @@ Pillars
 (C)action-adventure
 (C)open world- explore different planets and space stations
 
+=======
+[SS]World Background
+The game is set in space, the player can visit various planets, meeting different NPC's.
+It's an open world game, so the player can fly around all over space.
+They can visit various galaxies.
+...
+[SS] Pillars
+There are customizable space ships (Instead of horses!) in the game.
+There is a special skill tree, where the player can choose which path to take.
+There is hundreds of quests for the player to take, and NPC's to meet.
+The combat is fast paced, with laser weapons!
+>>>>>>> 16fe66ad125290cc1b0c7850c3dddf12f34e5b3a
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
