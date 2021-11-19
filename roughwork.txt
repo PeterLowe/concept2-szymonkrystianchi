@@ -25,10 +25,10 @@ You can fly around in your spaceship and look for treasure and do extra challeng
 You can change your skills and talents based on your play style.
 The combat is fast paced, and the player can dodge/parry/block/attack.
 ...
-Features points
+[SS]Features points
 In depth skill tree, with tons of different ways to play the game.
 Huge replayability, choose a different story and skills each time you play.
 Hundreds of different space ships to collect.
 ...
-[KS]Market analysis
-Similar games to our's are Prince of Persia: Sands of Time, Call of Duty: Infinite Warfare, No Mans Sky
+[SS]Market analysis
+Similar to Eve Online, Prince of Persia, Need for speed (space)
