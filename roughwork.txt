@@ -13,8 +13,11 @@ The game is set in space, the player can visit various planets, meeting differen
 It's an open world game, so the player can fly around all over space.
 They can visit various galaxies.
 ...
-Pillars
-3-4 fundementals of this game
+[SS] Pillars
+There are customizable space ships (Instead of horses!) in the game.
+There is a special skill tree, where the player can choose which path to take.
+There is hundreds of quests for the player to take, and NPC's to meet.
+The combat is fast paced, with laser weapons!
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
