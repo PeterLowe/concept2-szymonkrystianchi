@@ -28,5 +28,5 @@ The combat is fast paced, and the player can dodge/parry/block/attack.
 Features points
 key selling points of your game
 ...
-Market analysis
-similar games , typical customer, expected sales
+[KS]Market analysis
+Similar games to our's are Prince of Persia: Sands of Time, Call of Duty: Infinite Warfare, No Mans Sky
