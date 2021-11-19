@@ -43,7 +43,7 @@ There is hundreds of quests for the player to take, and NPC's to meet.
 The combat is fast paced, with laser weapons!
 
 ...
-=======
+
 ...
 [SS] Pillars
 There are customizable space ships (Instead of horses!) in the game.
@@ -102,8 +102,12 @@ Hundreds of different space ships to collect.
 ...
 [SS]Market analysis
 
+
 Similar to Eve Online, Prince of Persia, Need for speed (space)
 
 
 Similar to Eve Online, Prince of Persia, Need for speed (space), Call of duty infinte warfare
+
+=======
+Similar to Eve Online, Prince of Persia, Need for speed (space), Call of Duty infinite warfare
 
