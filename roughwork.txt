@@ -2,12 +2,16 @@
 
 Title
 <<<<<<< HEAD
+<<<<<<< HEAD
 Szymon
 Krystian
 (C)Chi
 =======
 Szymon Staneczek
 >>>>>>> 16fe66ad125290cc1b0c7850c3dddf12f34e5b3a
+=======
+Szymon Staneczek, Krystian Sendyk
+>>>>>>> 2db2b95a2137747e0558e50efc939decfc876837
 
 [SS ]Elevator pitch 
 The game is based in space! You play as an assassin trying to take down the evil space templars.
@@ -36,6 +40,7 @@ There is hundreds of quests for the player to take, and NPC's to meet.
 The combat is fast paced, with laser weapons!
 >>>>>>> 16fe66ad125290cc1b0c7850c3dddf12f34e5b3a
 ...
+<<<<<<< HEAD
 30 second gameplay description
 describe what its like to play the essence of the game loop
 (C)An open world action-adventure, player roles an assasin in game.
@@ -50,3 +55,18 @@ Market analysis
 similar games , typical customer, expected sales
 (C)Assassins Creed
 (C)The Legend of Zelda: Breath of the Wild
+=======
+[SS] 30 second gameplay description
+You play as an assassin. You have various tools and weapons to your disposal to defeat your enemies.
+You can fly around in your spaceship and look for treasure and do extra challenged.
+You can change your skills and talents based on your play style.
+The combat is fast paced, and the player can dodge/parry/block/attack.
+...
+[SS]Features points
+In depth skill tree, with tons of different ways to play the game.
+Huge replayability, choose a different story and skills each time you play.
+Hundreds of different space ships to collect.
+...
+[SS]Market analysis
+Similar to Eve Online, Prince of Persia, Need for speed (space)
+>>>>>>> 2db2b95a2137747e0558e50efc939decfc876837
