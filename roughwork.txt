@@ -8,8 +8,10 @@ The game is based in space! You play as an assassin trying to take down the evil
 The player has hidden blades that can shoot out laser at their enemies!
 There are also fast space ships that he assassin can use to fly around, looking for the templars.
 ...
-World Background
-main differences in your game world
+[SS]World Background
+The game is set in space, the player can visit various planets, meeting different NPC's.
+It's an open world game, so the player can fly around all over space.
+They can visit various galaxies.
 ...
 Pillars
 3-4 fundementals of this game
