@@ -90,5 +90,9 @@ Huge replayability, choose a different story and skills each time you play.
 Hundreds of different space ships to collect.
 ...
 [SS]Market analysis
+<<<<<<< HEAD
 Similar to Eve Online, Prince of Persia, Need for speed (space)
 
+=======
+Similar to Eve Online, Prince of Persia, Need for speed (space), Call of duty infinte warfare
+>>>>>>> faf274cbe217396526dcdc3765d841aa72b1ba51
