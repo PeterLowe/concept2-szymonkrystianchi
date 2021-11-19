@@ -1,22 +1,33 @@
 [pl]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
-insert team member names here
+Szymon
+Krystian
+(C)Chi
 
 Elevator pitch 
 Describe your game in 30 seconds or less
 ...
 World Background
 main differences in your game world
+(C)Conspiracy and stories that happened on colonized planets
 ...
 Pillars
-3-4 fundementals of this game
+(C)action-adventure
+(C)open world- explore different planets and space stations
+
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
+(C)An open world action-adventure, player roles an assasin in game.
+(C)Player needs to go to different planets to carry out the missions and fight against comspiracies. 
+(C)There are some mission happen in your spaceship also.
 ...
 Features points
 key selling points of your game
+(C)Open world, Assassins
 ...
 Market analysis
 similar games , typical customer, expected sales
+(C)Assassins Creed
+(C)The Legend of Zelda: Breath of the Wild
